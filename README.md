@@ -1,0 +1,2 @@
+# Analysis-E-commerce-Sale-Data-Create-interactive-Dashboard-using-Power-BI
+ "In this project, I analyzed e-commerce sales data , sales trends, and product performance. Using Power BI, I developed an interactive dashboard that visualizes key metrics such as total sales, revenue by region, top-selling products, and customer demographics. The dashboard allows users to filter and drill down into specific data points
